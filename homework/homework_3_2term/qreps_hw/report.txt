@@ -1,0 +1,28 @@
+INFO Running 6138A,6138K
+INFO 1143 proteins dropped
+INFO 3914 proteins analyzed
+INFO Upper log2FC threshold 1.0, lower log2FC threshold -1.0, -log10FDR threshold 2.729454115592535
+INFO 79 differentially regulated protein(s)
+INFO Euclidean distance 4.7263302639028435, Modified euclidean distance 1.9510734787287747, pi1 822.797737248698, pi2 75.64434394431241
+INFO 79 gene(s) available for GO enrichment analysis
+INFO Running 6138B,6138K
+INFO 1179 proteins dropped
+INFO 4093 proteins analyzed
+INFO Upper log2FC threshold 1.0, lower log2FC threshold -1.0, -log10FDR threshold 3.3742115050381747
+INFO 149 differentially regulated protein(s)
+INFO Euclidean distance 5.056292440773038, Modified euclidean distance 1.8095274949200626, pi1 1686.9965014605614, pi2 150.73244059404914
+INFO 149 gene(s) available for GO enrichment analysis
+INFO Running 4114A,4114K
+INFO 1231 proteins dropped
+INFO 3920 proteins analyzed
+INFO Upper log2FC threshold 1.0, lower log2FC threshold -1.0, -log10FDR threshold 2.7818821350517338
+INFO 146 differentially regulated protein(s)
+INFO Euclidean distance 9.150723695693738, Modified euclidean distance 6.216858178299262, pi1 3037.2151012394334, pi2 183.3760371027103
+INFO 146 gene(s) available for GO enrichment analysis
+INFO Running 4114B,4114K
+INFO 1189 proteins dropped
+INFO 3736 proteins analyzed
+INFO Upper log2FC threshold 1.0, lower log2FC threshold -1.0, -log10FDR threshold 2.488253505920304
+INFO 75 differentially regulated protein(s)
+INFO Euclidean distance 7.897252553238044, Modified euclidean distance 5.229136091096858, pi1 1389.1564691342799, pi2 91.17496227576632
+INFO 75 gene(s) available for GO enrichment analysis
